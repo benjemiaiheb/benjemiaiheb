@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm iheb-ben-jemia</h1>
 <h3 align="center">Développeur full-stack passionné | Based in Tunisia | Crafting modern apps</h3>
 
